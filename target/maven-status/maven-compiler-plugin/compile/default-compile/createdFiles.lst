@@ -1,0 +1,13 @@
+Services\UserServices.class
+DAO\LivreDAO.class
+Services\LivreServices.class
+Services\IServices.class
+Services\NewMain.class
+Controller\UserController.class
+DAO\IDAO.class
+DAO\NewHibernateUtil.class
+Model\User.class
+Controller\ContactController.class
+Model\Livre.class
+DAO\UserDAO.class
+Controller\LivreController.class
